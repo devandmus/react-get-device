@@ -25,6 +25,12 @@
   color: white;
 }
 
+.App-header section {
+  max-width: 500vw;
+  width: 80%;
+  padding: 0 16px;
+}
+
 .App-link {
   color: #61dafb;
 }

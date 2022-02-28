@@ -26,6 +26,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <section>
+          <p>Navigator response to exploit</p>
+          <p>{navigator.userAgent}</p>
           <Content />
         </section>
       </header>
